@@ -1,0 +1,31 @@
+.container{
+    max-width:400px;
+    margin:100px auto;
+    padding:100px;
+    background-color:rgb(216, 155, 81);
+    border-radius: 29px;
+    box-shadow:0px 0px 1px rgba(rgb(141, 63, 63), rgb(70, 219, 70), rgb(28, 28, 153), alpha)
+
+}
+h1{
+    text-align: center;
+}
+label{
+    text-align: right;
+    font-weight: bold;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+form-control{
+
+margin-bottom: 35px;
+
+}
+.btn-primary{
+    width: 100%;
+    background-color: blue;
+    border: none;
+    color: #fff;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
